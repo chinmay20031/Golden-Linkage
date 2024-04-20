@@ -1,0 +1,8 @@
+/* Add your CSS styles here */
+body {
+    transition: background-color 0.5s ease, color 0.5s ease;
+}
+.dark-mode {
+    background-color: #121212;
+    color: white;
+}
